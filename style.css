@@ -155,11 +155,11 @@ header {
 .container .content p {
     color: #666;
     font-size: 18px;
-    width: 550px;
+    max-width: 550px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: left;
+    text-align: justify;
     word-spacing: 2px;
-    padding: 0 20px 0 20px;
+    padding: 0 10px 0 10px;
 }
 
 .container .content img {
