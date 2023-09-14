@@ -155,7 +155,7 @@ header {
 .container .content p {
     color: #666;
     font-size: 18px;
-    width: 550px;
+    max-width: 550px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: left;
     word-spacing: 2px;
